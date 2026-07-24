@@ -8,7 +8,7 @@ about:
   - text: GitHub
     href: link
   - text: email
-    href: eleana-cabello@ou.edu
+    href: eleana-cabello@ou.edu 
 ---
 
 ::: {.columnpage}
